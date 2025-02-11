@@ -1,0 +1,12 @@
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\bin\Debug\net9.0\Kostarkia.EntityFrameworkCore.GenericRepository.Nuget.deps.json
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\bin\Debug\net9.0\Kostarkia.EntityFrameworkCore.GenericRepository.Nuget.dll
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\bin\Debug\net9.0\Kostarkia.EntityFrameworkCore.GenericRepository.Nuget.pdb
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Debug\net9.0\Kostarkia.EntityFrameworkCore.GenericRepository.Nuget.csproj.AssemblyReference.cache
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Debug\net9.0\Kostarkia.EntityFrameworkCore.GenericRepository.Nuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Debug\net9.0\Kostarkia.EntityFrameworkCore.GenericRepository.Nuget.AssemblyInfoInputs.cache
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Debug\net9.0\Kostarkia.EntityFrameworkCore.GenericRepository.Nuget.AssemblyInfo.cs
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Debug\net9.0\Kostarkia.EntityFrameworkCore.GenericRepository.Nuget.csproj.CoreCompileInputs.cache
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Debug\net9.0\Kostarkia.EntityFrameworkCore.GenericRepository.Nuget.dll
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Debug\net9.0\refint\Kostarkia.EntityFrameworkCore.GenericRepository.Nuget.dll
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Debug\net9.0\Kostarkia.EntityFrameworkCore.GenericRepository.Nuget.pdb
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Debug\net9.0\ref\Kostarkia.EntityFrameworkCore.GenericRepository.Nuget.dll

@@ -1,0 +1,12 @@
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\bin\Release\net9.0\Kostarkia.GenericRepository.Nuget.deps.json
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\bin\Release\net9.0\Kostarkia.GenericRepository.Nuget.dll
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\bin\Release\net9.0\Kostarkia.GenericRepository.Nuget.pdb
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Release\net9.0\Kostarkia.GenericRepository.Nuget.csproj.AssemblyReference.cache
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Release\net9.0\Kostarkia.GenericRepository.Nuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Release\net9.0\Kostarkia.GenericRepository.Nuget.AssemblyInfoInputs.cache
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Release\net9.0\Kostarkia.GenericRepository.Nuget.AssemblyInfo.cs
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Release\net9.0\Kostarkia.GenericRepository.Nuget.csproj.CoreCompileInputs.cache
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Release\net9.0\Kostarkia.GenericRepository.Nuget.dll
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Release\net9.0\refint\Kostarkia.GenericRepository.Nuget.dll
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Release\net9.0\Kostarkia.GenericRepository.Nuget.pdb
+C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\obj\Release\net9.0\ref\Kostarkia.GenericRepository.Nuget.dll

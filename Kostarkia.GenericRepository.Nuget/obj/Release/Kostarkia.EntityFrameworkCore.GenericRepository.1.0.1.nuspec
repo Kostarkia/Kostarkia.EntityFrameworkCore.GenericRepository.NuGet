@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Kostarkia.EntityFrameworkCore.GenericRepository</id>
+    <version>1.0.1</version>
+    <authors>Ferhat Bolat</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Generic Repository Pattern implementation for Entity Framework Core with .NET 9</description>
+    <tags>Generic Repository, Entity Framework, .NET 9</tags>
+    <repository type="git" url="https://github.com/Kostarkia/Kostarkia.EntityFrameworkCore.GenericRepository.NuGet" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="9.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net9.0/README.md" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\bin\Release\net9.0\Kostarkia.EntityFrameworkCore.GenericRepository.Nuget.dll" target="lib\net9.0\Kostarkia.EntityFrameworkCore.GenericRepository.Nuget.dll" />
+    <file src="C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\README.md" target="content\README.md" />
+    <file src="C:\Users\ferha\source\repos\Kostarkia.GenericRepository.Nuget\Kostarkia.GenericRepository.Nuget\README.md" target="contentFiles\any\net9.0\README.md" />
+  </files>
+</package>
